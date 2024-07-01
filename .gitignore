@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SSAS/MPSpotifyChartsNew/bin
+/SSAS/MPSpotifyChartsNew/obj/Development
+/SSIS/SSISSpotifyCharts/bin/Development
+/SSIS/SSISSpotifyCharts/obj/Development
