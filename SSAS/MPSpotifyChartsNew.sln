@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MPSpotifyChartsNew", "MPSpotifyChartsNew\MPSpotifyChartsNew.dwproj", "{9219321A-7383-49A2-A3E1-1E5828AA4746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9219321A-7383-49A2-A3E1-1E5828AA4746}.Development|Default.ActiveCfg = Development
+		{9219321A-7383-49A2-A3E1-1E5828AA4746}.Development|Default.Build.0 = Development
+		{9219321A-7383-49A2-A3E1-1E5828AA4746}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAAC172E-C1AA-403E-84BD-0D786AD3F620}
+	EndGlobalSection
+EndGlobal
